@@ -1,3 +1,8 @@
 Line 1: Stable text
 <<<<<<< HEAD
+<<<<<<< HEAD
 Line 2: Added by feature A & feature B
+=======
+Line 2: To be changed
+Line 3: Legacy branch stuff
+>>>>>>> 7fc5a77 (feat: add line 3 in feature C (outdated base))
