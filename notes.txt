@@ -1,3 +1,3 @@
 Line 1: Stable text
 Line 2: Added by feature A & feature B
-Line 3: Different text from feature D
+Line 3: Combined: Feature C's version + Different text from feature D
